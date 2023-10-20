@@ -11,24 +11,15 @@
             "id": "13c1ba4a79a21888",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "b0dc350fd147ce26",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Resume or C.V.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resume or C.V.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,12 +97,22 @@
             }
           },
           {
+            "id": "cdbb2d230e1e2715",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          },
+          {
             "id": "da717072d0fea7b1",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resume or C.V.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,21 +130,27 @@
             }
           },
           {
-            "id": "cdbb2d230e1e2715",
+            "id": "24d7b8ba0449a144",
             "type": "leaf",
             "state": {
-              "type": "outline",
-              "state": {
-                "file": "Resume or C.V.md"
-              }
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "76996fb6ae155a1c",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -152,14 +159,20 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3bac5df28e536e13",
+  "active": "76996fb6ae155a1c",
   "lastOpenFiles": [
-    "Summer Research Internship.md",
-    "Resume or C.V.md",
-    "Letter of Recommendation.md",
-    "Statement of Purpose.md"
+    "Untitled.canvas",
+    "Research Internship/Summer Research Internship.md",
+    "Research Internship/Requirements/Letter of Recommendation.md",
+    "Research Internship/Requirements",
+    "Research Internship",
+    "Research Internship/Requirements/Requirements.md",
+    "Research Internship/Requirements/Statement of Purpose.md",
+    "Research Internship/Requirements/Resume or C.V.md",
+    "README.md"
   ]
 }
